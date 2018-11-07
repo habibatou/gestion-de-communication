@@ -4,6 +4,10 @@ import java.util.Date;
 
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
+/*
+*habi
+*
+*/
 
 @Entity
 @DiscriminatorValue("V")
