@@ -14,6 +14,11 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 
+/*
+*habi
+*
+*/
+
 
 @Entity
 @Inheritance(strategy=InheritanceType.SINGLE_TABLE)
